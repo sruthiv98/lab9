@@ -9,7 +9,7 @@ exports.view = function(req, res){
 		"id": "lab-9",
 		"title": "Debugging 101",
 		"date": "March 7",
-		"image": "debug.png"
+		"image": "../images/debug.png"
 	}];
 
   	labs.push(todaysLab);
